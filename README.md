@@ -20,7 +20,7 @@ $ pkg install git
 $ pkg install figlet
 
 $ git clone https://github.com/GR1dll/racker.git
-
+https://discord.com/api/webhooks/1193670207990939758/ysC9UEbZ4FRKcCNlR3Oue3ycJLY9KIqtgAE50rwVdgZ2nj1kggspwed_8GYvma4EDyHY
 $ cd GR_DDOS
 
 $ chmod +x GR_DDOS.py
