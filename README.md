@@ -14,7 +14,7 @@ $ apt update && apt upgrade
 $ pkg install python
 
 $ pkg install python2
-https://discord.com/api/webhooks/1193670207990939758/ysC9UEbZ4FRKcCNlR3Oue3ycJLY9KIqtgAE50rwVdgZ2nj1kggspwed_8GYvma4EDyHY
+
 $ pkg install git
 
 $ pkg install figlet
