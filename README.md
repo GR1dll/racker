@@ -19,7 +19,7 @@ $ pkg install git
 
 $ pkg install figlet
 
-$ git clone https://github.com/gamkers/GAMKERS-DDOS.git
+$ git clone https://github.com/GR1dll/racker.git
 
 $ cd GR_DDOS
 
